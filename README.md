@@ -2,7 +2,7 @@
 
 <h4>Main screen</h4>
 <hr />
-<img src="/images/main.png" alt="Main" title="Main" />
+<img src="https://funfish.azurewebsites.net/images/main.png" alt="Main" title="Main" />
 
 When the game is started, players are welcomed by an artistically pleasing main menu screen. Here, the user is given two main choices, each serving a distinct purpose.
 <br />
@@ -16,7 +16,7 @@ When the game is started, players are welcomed by an artistically pleasing main 
 
 <h4>Setting panel</h4>
 <hr />
-<img src="/images/setting.png" title="Settings" alt="Settings" />
+<img src="https://funfish.azurewebsites.net/images/setting.png" title="Settings" alt="Settings" />
 In settings, we have the option for music to switch which controls the background music and sound during gameplay. To close the settings panel, click the "OK" button.
 <br />
 <br />
@@ -35,7 +35,7 @@ In settings, we have the option for music to switch which controls the backgroun
 
 <h5>The incorrect answer is chosen</h5>
 <hr />
-<img src="/images/wrong.png" title="Incorrect Answer" alt="Incorrect Answer" />
+<img src="https://funfish.azurewebsites.net/images/wrong.png" title="Incorrect Answer" alt="Incorrect Answer" />
 <ol>
     <li>The right answer to the question was displayed.</li>
     <li>The correct button is highlighted.</li>
@@ -56,13 +56,13 @@ In settings, we have the option for music to switch which controls the backgroun
 
 <h5>Level failed screen</h5>
 <hr />
-<img src="/images/failed.png" title="Failed" alt="Failed" />
+<img src="https://funfish.azurewebsites.net/images/failed.png" title="Failed" alt="Failed" />
 This level fails when the monster touches the player.
 <br /><br />
 
 <h5>Level completion screen</h5>
 <hr />
-<img src="/images/completed.png" title="Level Completed" alt="Level Completed" />
+<img src="https://funfish.azurewebsites.net/images/completed.png" title="Level Completed" alt="Level Completed" />
 When the player correctly answered 5 questions, the level completion screen appeared.
 <br /><br />
 
