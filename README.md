@@ -1,6 +1,5 @@
 # FunFish
 
-```html
 <h4>Main screen</h4>
 <hr />
 <img src="/images/main.png" alt="Main" title="Main" />
@@ -68,4 +67,3 @@ When the player correctly answered 5 questions, the level completion screen appe
 <br /><br />
 
 <center><h3>Happy playing FunFish!</h3></center>
-```
