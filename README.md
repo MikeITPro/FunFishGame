@@ -23,7 +23,7 @@ In settings, we have the option for music to switch which controls the backgroun
 
 <h5>Game screen</h5>
 <hr />
-<img src="/images/game.png" title="Game" alt="Game" />
+<img src="https://funfish.azurewebsites.net/images/game.png" title="Game" alt="Game" />
 <ol>
     <li>The player's lifetime score is displayed in the upper right corner.</li>
     <li>Top left allows the user to go back to main screen.</li>
@@ -45,7 +45,7 @@ In settings, we have the option for music to switch which controls the backgroun
 
 <h5>The correct answer is chosen</h5>
 <hr />
-<img src="/images/correct.png" title="Correct Answer" alt="Correct Answer" />
+<img src="https://funfish.azurewebsites.net/images/correct.png" title="Correct Answer" alt="Correct Answer" />
 <ol>
     <li>Progress status increases by one point.</li>
     <li>The total score accumulation by one point.</li>
